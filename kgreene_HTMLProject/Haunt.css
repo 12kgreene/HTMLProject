@@ -1,0 +1,18 @@
+body                  {background: url(Overlord.jpg);background-repeat: no-repeat; 						background-attachment: fixed; background-position: center;  margin: 0px;						font-family: Verdana, Geneva, sans-serif}
+
+#header               {position: absolute; top: 0px; left: 0px; height: 600px; padding: 0px}
+
+
+#leftColumn           {position: absolute; top: 600px; left: 5px; width: 150px}
+
+#links                {background-color: black; padding: 0px; margin: 0px}
+#links ul             {list-style-type: none; font-size: 12px; padding: 10px; margin: 0px 0px 20px 0px}
+#links ul li          {margin: 0px 0px 0px 10px; line-height: 1.6}
+#links ul a           {color: #FEE882; text-decoration: none;}
+#links ul a:hover     {color: #00ff00;text-decoration: overline underline}
+
+#rightColumn          {position: absolute; top: 600px; left: 175px; width: 1500px}
+#rightColumn h1		  {color:#B9002B; text-shadow:-1px 0 #ffffff, 0 1px #ffffff, 1px 0 #ffffff, 0 -1px #ffffff; font-size: 45px; margin: 10px 0px; width: 1500px}
+#rightColumn h2       {color:#663400; text-shadow:-2px 0 #ff0000, 0 2px #ff0000, 2px 0 #ff0000, 0 -2px #ff0000; font-size: 40px; margin: 10px 0px 0px 0px}
+#rightColumn p        {color:#ff0000; text-shadow:-1px 0 #ffffff, 0 1px #ffffff, 1px 0 #ffffff, 0 -1px #ffffff; font-size: 28px; margin: 10px 0px; width: 1500px}
+
